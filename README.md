@@ -2,7 +2,7 @@
 # Kratin-assignment
 Let’s Innovate!  How can you help Sunita Sharma (65+ years old) to live a healthier and better life? Identify one use case for elderly care (for the age group 65+) and create a working prototype to demonstrate my idea using technology known to me. Expected Efforts: 2-3 days.
 
-# Technology i used
+# Technology Used
     ReactJS and TailwindCSS.
 
 ![Logo](https://github.com/Khervyngupta/kratin-assignment/blob/master/Screenshots/reactjs.png)
