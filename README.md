@@ -35,7 +35,7 @@ Now, run the application using this command :
 ```   
 ## Screenshots
 
-![App Screenshot](https://honeshwar.github.io/kartin-assignment/screenshots/1.png)
+![App Screenshot](https://github.com/Khervyngupta/kratin-assignment/blob/master/Screenshots/1.png)
 
 ![App Screenshot](https://honeshwar.github.io/kartin-assignment/screenshots/2.png)
 
