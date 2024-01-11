@@ -5,8 +5,8 @@ Let’s Innovate!  How can you help Sunita Sharma (65+ years old) to live a heal
 # Technology i used
     ReactJS and TailwindCSS.
 
-![Logo](https://honeshwar.github.io/kartin-assignment/screenshots/reactjs.png)
-![Logo](https://honeshwar.github.io/kartin-assignment/screenshots/tailwindcss.png)
+![Logo](https://github.com/Khervyngupta/kratin-assignment/blob/master/Screenshots/reactjs.png)
+![Logo](https://github.com/Khervyngupta/kratin-assignment/blob/master/Screenshots/tailwindcss.png)
 ## How to setup on local machine
 
 To use this repository your machine should have VsCode ( or any code editor), [node](https://nodejs.org/en/), npm, and git. Now check for this things is install or not :
@@ -37,16 +37,16 @@ Now, run the application using this command :
 
 ![App Screenshot](https://github.com/Khervyngupta/kratin-assignment/blob/master/Screenshots/1.png)
 
-![App Screenshot](https://honeshwar.github.io/kartin-assignment/screenshots/2.png)
+![App Screenshot](https://github.com/Khervyngupta/kratin-assignment/blob/master/Screenshots/2.png)
 
-![App Screenshot](https://honeshwar.github.io/kartin-assignment/screenshots/3.png)
+![App Screenshot](https://github.com/Khervyngupta/kratin-assignment/blob/master/Screenshots/3.png)
 
-![App Screenshot](https://honeshwar.github.io/kartin-assignment/screenshots/4.png)
+![App Screenshot](https://github.com/Khervyngupta/kratin-assignment/blob/master/Screenshots/4.png)
 
-![App Screenshot](https://honeshwar.github.io/kartin-assignment/screenshots/5.png)
+![App Screenshot](https://github.com/Khervyngupta/kratin-assignment/blob/master/Screenshots/5.png)
 
-![App Screenshot](https://honeshwar.github.io/kartin-assignment/screenshots/6.png)
+![App Screenshot](https://github.com/Khervyngupta/kratin-assignment/blob/master/Screenshots/6.png)
 
-![App Screenshot](https://honeshwar.github.io/kartin-assignment/screenshots/7.png)
+![App Screenshot](https://github.com/Khervyngupta/kratin-assignment/blob/master/Screenshots/7.png)
 
 
