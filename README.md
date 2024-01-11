@@ -19,7 +19,7 @@ To use this repository your machine should have VsCode ( or any code editor), [n
 Clone repository : open terminal and hit this command in your code editor
 
 ```bash
-  git clone --branch master https://github.com/Honeshwar/kartin-assignment.git
+  git clone --branch master https://github.com/Khervyngupta/kratin-assignment.git
 ```
 
 Install dependencies :
